@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ryanmohamed/tower-defense/issues"
   },
-  "homepage": "https://github.com/ryanmohamed/tower-defense#readme"
+  "homepage": "https://github.com/ryanmohamed/tower-defense#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "p5": "^1.6.0",
+    "p5.play": "^3.8.5",
+    "q5": "^1.1.5"
+  }
 }
