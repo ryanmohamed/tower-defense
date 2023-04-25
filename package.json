@@ -2,7 +2,7 @@
   "name": "tower-defense",
   "version": "1.0.0",
   "description": "",
-  "main": "sketch.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,10 +15,5 @@
   "bugs": {
     "url": "https://github.com/ryanmohamed/tower-defense/issues"
   },
-  "homepage": "https://github.com/ryanmohamed/tower-defense#readme",
-  "dependencies": {
-    "p5": "^1.6.0",
-    "p5.play": "^3.8.5",
-    "q5": "^1.1.5"
-  }
+  "homepage": "https://github.com/ryanmohamed/tower-defense#readme"
 }
